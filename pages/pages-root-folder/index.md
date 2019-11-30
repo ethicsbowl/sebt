@@ -10,5 +10,5 @@ subheadline: ""
 teaser: ""
 permalink: "/home/"
 header:
-  image_fullwidth: SEBT-Web-Header.png
+  image_fullwidth: "SEBT-Web-Header.png"
 ---
