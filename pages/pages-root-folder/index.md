@@ -9,4 +9,6 @@ title: "Shanghai Ethics Bowl Tournament (SEBT) promotes respectful, supportive, 
 subheadline: ""
 teaser: ""
 permalink: "/home/"
+header:
+  image_fullwidth: SEBT-Web-Header.png
 ---
